@@ -1,16 +1,15 @@
-# 01001000 01001001 (HI) 👋
+# 01001000 01001001👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=code&color=00FF41&height=150&section=header&text=System.init(Student_DAM)&fontSize=40&animation=fadeIn&fontColor=00FF41" />
 </p>
 
-## >_ Entrando en la Matrix...
 
-Actualmente estoy cursando **DAM (Desarrollo de Aplicaciones Multiplataforma)**. Mi realidad se divide entre líneas de código y la resolución de bugs. He elegido la pastilla roja.
+Actualmente estoy cursando **DAM (Desarrollo de Aplicaciones Multiplataforma)**
 
-- 🤖 **Ocupación:** Estudiante de DAM
-- 🌍 **Localización:** Nodo Terrestre
-- ⚙️ **Objetivo:** Optimizar la simulación a través del software
+-  **Ocupación:** Estudiante de DAM
+-  **Localización:** Nodo Terrestre
+-  **Objetivo:** Optimizar la simulación a través del software
 
 ---
 
