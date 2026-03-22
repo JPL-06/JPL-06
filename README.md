@@ -9,7 +9,7 @@
   🤖 <b>Ocupación:</b> Estudiante de DAM | 🌍 <b>Localización:</b> Nodo Terrestre
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Accediendo+al+main-frame...;Wake+up+Neo...;Conexi%C3%B3n+establecida+con+JPL-06;Searching+for+The+One..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Accediendo+al+main-frame...;Wake+up+Neo+.+.+.;Conexi%C3%B3n+establecida+con+JPL-06;Searching+for+The+One..." />
 </p>
 <p align="center">
   <img src="https://64.media.tumblr.com/e9914766093664d952678853b47970d4/tumblr_n69m9v9v9v1s3s3s3o1_500.gif" width="100%" height="30px" style="object-fit: cover;">
