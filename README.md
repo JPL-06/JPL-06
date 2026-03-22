@@ -33,7 +33,10 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/e9914766093664d952678853b47970d4/tumblr_n69m9v9v9v1s3s3s3o1_500.gif" width="100%" height="30px" style="object-fit: cover;">
 </p>
-
+## 🐍 System_Trace: Snake_Pattern
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JPL-06/JPL-06/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+</p>
 <h2 align="center">## Estadísticas del Sistema</h2>
 
 <p align="center">
