@@ -5,23 +5,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Accediendo+al+main-frame...;Wake+up+Neo+.+.+.;Conexi%C3%B3n+establecida+con+JPL-06;Searching+for+The+One..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Programador+en+proceso;Wake+up+Neo+.+.+.;Larga+vida+a+Linux;Searching+for+The+One..." />
 </p>
 
 <h2 align="center"> 👤 Sobre Mí </h2>
 <p align="center">
-  Hola soy Jesus y soy estudiante de primer año de DAM. Estoy aprendiendo sobre programacio, base de datos... entre otro monton de cosas. Entre mis aficiones esta aprender nuevos idiomas (今日本語と英語を勉強している), subir de elo en el lol y parender nuevas formas de automatizar y mejorar en programacion. 
+  Hola, soy <b>Jesús</b> y soy estudiante de primer año de <b>DAM</b>. Estoy aprendiendo sobre programación, bases de datos... entre otro montón de cosas. Entre mis aficiones está aprender nuevos idiomas (今日本語と英語を勉強している), subir de elo en el LoL y aprender nuevas formas de automatizar y mejorar en programación. 
    <br><br>
    <b>Ocupación:</b> Estudiante de DAM |  <b>Localización:</b> España
 </p>
+
 <p align="center">
   <img src="https://64.media.tumblr.com/e9914766093664d952678853b47970d4/tumblr_n69m9v9v9v1s3s3s3o1_500.gif" width="100%" height="30px" style="object-fit: cover;">
 </p>
 
-<h2 align="center"> Programing </h2>
+<h2 align="center"> Programación </h2>
 
 <p align="center">
-  <b>Front-end & Logic</b><br>
+  <b>Lenguajes</b><br>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -34,7 +35,7 @@
 </p>
 
 <p align="center">
-  <b>Web Development</b><br>
+  <b>Web</b><br>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -55,23 +56,17 @@
 
 <br>
 
-## 📊 Telemetría y Actividad
-`Estimación del progreso y actividad basada en el historial de commits.`
-
-<br>
-
-<img width="800px" src="https://github-readme-stats.vercel.app/api?username=JPL-06&show_icons=true&theme=matrix&rank_icon=github&border_radius=10&locale=es&hide_border=true&display_format=horizontal" />
-
-<br><br>
-
-<img width="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPL-06&layout=compact&theme=matrix&border_radius=10&hide_border=true" />
-
-<br>
-`-------------------------------------------------------------`
 </div>
 
+<h2 align="center"> Contacta! </h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid3B6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="150px" style="object-fit: cover;" />
+  <code>Email => <a href="mailto:TU_CORREO@EMAIL.COM">send_email.sh</a></code> <br>
+  <code>Linkedin => <a href="TU_LINK_LINKEDIN">open_linkedin.exe</a></code> <br>
+  <code>Discord => <a href="TU_LINK_DISCORD_O_WEB">start_portfolio.dmg</a></code>
+</p>
+
+<p align="center">
+<img src="https://camo.githubusercontent.com/8a5d361e40b70259b727d27c687b7a6c22ad52e467326cbf0f7a7513a5ca101a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f523255524c38457163616f41414141692f68692e676966" width="40%" height="150px" style="object-fit: cover;" />
   <br><br>
-  <i>"No intentes doblar la cuchara, eso es imposible. En vez de eso, solo intenta comprender la verdad: no hay cuchara."</i>
+  <i>"No intentes doblar la cuchara, eso es imposible. En vez de eso, solo intenta comprender la verdad: no hay cuchara"</i>
 </p>
